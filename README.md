@@ -40,3 +40,26 @@ questions = [
 
 run_quiz(questions)
 ```
+## 🚀 How to Run
+1. Clone this repository
+git clone https://github.com/your-username/quiz-app.git
+2. Navigate to the project folder
+cd quiz-app
+3. Run the script
+python quiz_app.py
+
+## 💡 Example Output
+What is the capital of France?
+1. London
+2. Berlin
+3. Paris
+4. Rome
+Enter your answer (1-4): 3
+✅ Correct!
+
+Your final score is 1/1
+
+## 🧑‍💻 Author
+Adam Musa
+## 📄 License
+This project is licensed under the MIT License.
