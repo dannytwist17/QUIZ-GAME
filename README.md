@@ -60,6 +60,7 @@ What is the capital of France?
 2. Berlin
 3. Paris
 4. Rome
+
 Enter your answer (1-4): 3
 ✅ Correct!
 
