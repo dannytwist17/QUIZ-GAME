@@ -42,11 +42,17 @@ run_quiz(questions)
 ```
 ## 🚀 How to Run
 1. Clone this repository
-git clone https://github.com/dannytwist17/QUIZ-GAME.git
+```bash
+https://github.com/dannytwist17/QUIZ-GAME.git
+```
 2. Navigate to the project folder
+```bash
 cd quiz-app
+```
 3. Run the script
+```bash
 python quiz_app.py
+```
 
 ## 💡 Example Output
 What is the capital of France?
