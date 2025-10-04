@@ -42,7 +42,7 @@ run_quiz(questions)
 ```
 ## 🚀 How to Run
 1. Clone this repository
-git clone https://github.com/dannytwist17/quiz-app.git
+git clone https://github.com/dannytwist17/QUIZ-GAME.git
 2. Navigate to the project folder
 cd quiz-app
 3. Run the script
