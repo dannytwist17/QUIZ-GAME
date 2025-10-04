@@ -1,0 +1,77 @@
+[
+    {
+        "question": "What is the capital of Nigeria?",
+        "options": ["Lagos", "Abuja", "Kano", "Ibadan"],
+        "answer": "Abuja"
+        },
+    {
+        "question": "Who developed Python programmig language?",
+        "options": ["Dennis Ritchie", "James Gosline", "Guido Van Rossum", "Elon Musk"],
+        "answer": "Guido Van Rossum"
+        },
+    {
+        "question": "Which Planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "answer": "Mars"
+        },
+    {
+        "question":  "What is 15 + 17?",
+        "options": ["30", "31", "32", "33"],
+        "answer": "32"
+        },
+    {
+        "question": "Which programming language is known as the language of the web?",
+        "options": ["Python", "C++", "Javascript", "Java"],
+        "answer": "Javascript"
+        },
+    {
+        "question":"Who is the current President of Nigeria(2025)?",
+        "options": ["Peter Obi", "Goodluck Jonathan", "Bola Ahmed Tinubu", "Yemi Osinbajo"],
+        "answer": "Bola Ahmed Tinubu"
+        },
+    {
+        "question": "What is the chemical symbol for Gold?",
+        "options": ["Gd", "Au", "Ag", "Go"],
+        "answer": "Au"
+        },
+    {
+        "question": "Which continent is the largest by land area?",
+        "options": ["Africa", "Asia", "Europe", "North America"],
+        "answer": "Asia"
+        },
+    {
+        "question": "Which Ocean is the deepest in the world?",
+        "options": ["Atlantic Ocean", "Indiana Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean"
+        },
+    {
+        "question": "Who was the first man to step on the Moon?",
+        "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Michael Collins"],
+        "answer": "Neil Armstrong"
+        },
+    {
+        "question": "What is the boiling point of water at sea level in Celsius?",
+        "options": ["90", "95", "100", "105"],
+        "answer": "100"
+        },
+    {
+        "question": "Which Nigerian city is nicknamed 'The Coal City'?",
+        "options": ["Lagos", "Abuja", "Enugu", "Benin City"],
+        "answer": "Enugu"
+        },
+    {
+        "question": "In which year did Nigeria gain independence?",
+        "options": ["1957", "1958", "1959", "1960"],
+        "answer": "1960"
+        },
+    {
+        "question": "Who wrote the play 'Things Fall Apart'?",
+        "options": ["Wole Soyinka", "Ngugi wa Thiong'o", "Femi Osofisan", "Chinua Achebe"],
+        "answer": "Chinua Achebe"
+        },
+    {
+        "question": "Which footballer is known as 'The GOAT' by many fans?",
+        "options": ["Lionel Messi", "Cristiano Ronaldo", "Neymar Jr", "Kylian Mbappe"],
+        "answer": "Lionel Messi"
+        }
+    ]
